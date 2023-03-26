@@ -2,12 +2,12 @@ import React, { useEffect, useState } from 'react';
 
 //import { Card, FormField, Loader } from '../components';
 //import Login from "@/components/login";
+import index from "../componets";
 
-
-import Card from "@/components/Card";
+/*import Card from "@/components/Card";
 import FormField from "@/components/FormField";
 import Loader from "@/components/Loader";
-
+*/
 
 const RenderCards = ({ data, title }) => {
   if (data?.length > 0) {
