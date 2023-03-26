@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
-import { Card, FormField, Loader } from '../components';
+import { Card, FormField, Loader } from '../Components';
 
 
 
